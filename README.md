@@ -18,6 +18,8 @@ To compile and run tests also execute:
 
 ```
 mvn test
+
+File edited!
 ```
 
 (That will be enough to know for the current exercises. If you are more interested, see [this](https://github.com/FTSRG/swsv/wiki/0-Maven) short guide about Maven.)
